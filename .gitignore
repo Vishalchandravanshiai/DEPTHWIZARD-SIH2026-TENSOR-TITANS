@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# PyTorch / HuggingFace models & cache
+models/*
+!models/.gitkeep
+.cache/
+hf_cache/
+*.pth
+*.pt
+*.safetensors
+*.bin
+
+# Output files
+outputs/*
+!outputs/.gitkeep
+outputs/**/*.png
+outputs/**/*.jpg
+outputs/**/*.npy
+outputs/**/*.html
+
+# Data
+data/input/*
+data/samples/*
+!data/samples/.gitkeep
+!data/reference/.gitkeep
+!data/input/.gitkeep
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
