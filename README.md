@@ -12,6 +12,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-CUDA%20%7C%20CPU-EE4C2C?logo=pytorch&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-V1%20Prototype-yellow)
 ![License](https://img.shields.io/badge/License-Active%20Development-lightgrey)
+[![Hugging Face Space](https://img.shields.io/badge/Hugging%20Face-Live%20Prototype-yellow?logo=huggingface)](https://huggingface.co/spaces/vishalchandravanshii/DepthWizard-SIH2026)
 
 </div>
 
