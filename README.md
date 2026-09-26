@@ -2,6 +2,13 @@
 
 # 🧙‍♂️ DepthWizard
 
+</div>
+
+> [!IMPORTANT]
+> **🚀 LIVE PROTOTYPE — [Open DepthWizard →](https://huggingface.co/spaces/vishalchandravanshii/DepthWizard-SIH2026)**
+
+<div align="center">
+
 ### Single-View Height Estimation & 3D Flythrough
 
 **Smart India Hackathon 2026 · Problem Statement 26175 · Team Tensor Titans**
@@ -12,7 +19,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-CUDA%20%7C%20CPU-EE4C2C?logo=pytorch&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-V1%20Prototype-yellow)
 ![License](https://img.shields.io/badge/License-Active%20Development-lightgrey)
-**🚀 Live demo / prototype: [Open DepthWizard](https://huggingface.co/spaces/vishalchandravanshii/DepthWizard-SIH2026)**
 
 </div>
 
